@@ -1,0 +1,80 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AFSoundManager (2.1)
+  - ApiAI (0.4.7):
+    - ApiAI/AudioFileConverter (= 0.4.7)
+    - ApiAI/Core (= 0.4.7)
+    - ApiAI/ResponseMapping (= 0.4.7)
+    - ApiAI/UIKit (= 0.4.7)
+    - ApiAI/UserEntities (= 0.4.7)
+    - ApiAI/VoiceFileRequest (= 0.4.7)
+    - ApiAI/VoiceRequest (= 0.4.7)
+  - ApiAI/AudioFileConverter (0.4.7):
+    - ApiAI/Core
+  - ApiAI/Core (0.4.7)
+  - ApiAI/ResponseMapping (0.4.7):
+    - ApiAI/Core
+  - ApiAI/UIKit (0.4.7):
+    - ApiAI/Core
+    - ApiAI/VoiceRequest
+  - ApiAI/UserEntities (0.4.7):
+    - ApiAI/Core
+  - ApiAI/VoiceFileRequest (0.4.7):
+    - ApiAI/Core
+  - ApiAI/VoiceRequest (0.4.7):
+    - ApiAI/Core
+  - CircleProgressBar (0.22)
+  - FBGlowLabel (0.0.1)
+  - MVSpeechSynthesizer (1.0.1)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.0)
+  - AFSoundManager
+  - ApiAI (~> 0.4)
+  - CircleProgressBar (~> 0.3)
+  - FBGlowLabel (from `https://github.com/lyokato/FBGlowLabel.git`)
+  - MVSpeechSynthesizer
+  - SDWebImage
+
+EXTERNAL SOURCES:
+  FBGlowLabel:
+    :git: https://github.com/lyokato/FBGlowLabel.git
+
+CHECKOUT OPTIONS:
+  FBGlowLabel:
+    :commit: b32e566de10ba470566f1c4b02ca4140b94164e5
+    :git: https://github.com/lyokato/FBGlowLabel.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  AFSoundManager: 232af6154e736e6b2d8c93fafebfafd14fad7510
+  ApiAI: 8d1bf706a0fa0be33b65eed3e923162abc17a179
+  CircleProgressBar: bb6418f9a5121f64c5784b9a72e34f353727266c
+  FBGlowLabel: 35276711c4051f4a08b2d8de4e2f770fc0faf24d
+  MVSpeechSynthesizer: d4deb5221bff17dfda644298497be3b4fa189040
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0
