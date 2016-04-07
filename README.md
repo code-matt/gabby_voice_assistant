@@ -28,3 +28,6 @@ as knowledge,Wolfram Alpha etc etc... The idea is that a user logs
 in and over time as they ask questions and tell Gabby things, their database grows and builds
 connections personalized to that user. Also started experimenting with
 personalized actions.. right now Gabby can click a mouse lol.</p>
+
+<p>I would like to switch rails to using MongoDB/Mongoid for the dynamicness
+allowed by NoSQL. Gabby needs to be able to learn new tables on the fly.</p>
