@@ -19,7 +19,7 @@ find out what to do with them. Sending back customized speech most the time.</p>
 <li>pod 'MVSpeechSynthesizer'</li>
 <li>pod 'CircleProgressBar', '~> 0.3'</li>
 </ul>
-This is the first conversion of the ApiAI Objective-C pod to Rubymotion(RMQ/Redpotion) from
+This is the first conversion of the ApiAI Objective-C pod to RubyMotion(RMQ/Redpotion) from
 what I can tell. I crash trying to use VAD(voice auto detect) for commit so
 that needs some help. As well as it needs helper methods for contexts and
 lots of other things that she currently does not use.
