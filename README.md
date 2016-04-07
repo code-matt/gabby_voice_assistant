@@ -1,4 +1,5 @@
-# Gabby - iOS voice assistant(RedPotion(RubyMotion) - Rails) | v0.1
+# Gabby - iOS voice assistant
+### RedPotion(RubyMotion) - Rails | v0.1
 
 <p>Interesting parts so far are:</p>
 <ul>
