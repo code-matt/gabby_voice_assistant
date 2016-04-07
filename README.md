@@ -11,6 +11,14 @@
 are parameters for further action, she contacts her rails server to
 find out what to do with them</p>
 
+<p>Gabby's RubyMotion side is using a variety of Objective-C cocoa pods:</p>
+<ul>
+<li>pod 'AFSoundManager'</li>
+<li>pod 'ApiAI', '~> 0.4'</li>
+<li>pod 'MVSpeechSynthesizer'</li>
+<li>pod 'CircleProgressBar', '~> 0.3'</li>
+</ul>
+
 <p>I have plans to expand this with IBM watson image recognition as well
 as knowledge. The idea is that a user logs in and over time as they as questions
 and tell gabby things, it builds a database that is personalized to them. Also
