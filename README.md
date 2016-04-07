@@ -24,8 +24,8 @@ what I can tell. I crash trying to use VAD(voice auto detect) for commit so
 that needs some help. As well as it needs helper methods for contexts and
 lots of other things that she currently does not use.
 
-<p>My idea is to expand this and use IBM watson image recognition as well
-as knowledge,walfram alpha etc etc... The idea is that a user logs
+<p>My idea is to expand this and use IBM Watson image recognition as well
+as knowledge,Wolfram Alpha etc etc... The idea is that a user logs
 in and over time as they ask questions and tell Gabby things, their database grows and builds
 connections personalized to that user. Also started experimenting with
 personalized actions.. right now Gabby can click a mouse lol.</p>
