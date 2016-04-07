@@ -5,7 +5,6 @@
 <ul>
 <li>gabby_ios_rubymotion_client/app/models/apiAIvoiceController.rb</li>
 <li>gabby_ios_rubymotion_client/app/screens/home_screen.rb</li>
-<li>gabby_ios_rubymotion_client/app/stylesheets/home_screen_stylesheet.rb</li>
 </ul>
 
 <p>Gabby uses an api.ai agent to process voice requests and then if there
@@ -24,7 +23,7 @@ what I can tell. I crash trying to use VAD(voice auto detect) for commit so
 that needs some help. As well as it needs helper methods for contexts and
 lots of other things that she currently does not use.
 
-<p>My idea is to expand this and use IBM Watson image recognition as well
+<p>My idea is to expand this and use IBM Cognitive Cloud image recognition as well
 as knowledge,Wolfram Alpha etc etc... The idea is that a user logs
 in and over time as they ask questions and tell Gabby things, their database grows and builds
 connections personalized to that user. Also started experimenting with
