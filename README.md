@@ -25,6 +25,6 @@ that needs some help.
 
 <p>My idea is to expand this and use IBM watson image recognition as well
 as knowledge,walfram alpha etc etc... The idea is that a user logs
-in and over time as they as questions and tell gabby things, grows and builds
+in and over time as they ask questions and tell gabby things, grows and builds
 connections personalized to that user. Also started experimenting with
 personalized actions.. right now Gabby can click a mouse lol.</p>
