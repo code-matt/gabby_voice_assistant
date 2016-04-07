@@ -22,10 +22,10 @@ find out what to do with them</p>
 This is the first conversion of the ApiAI Objective-C pod to Rubymotion(RMQ/Redpotion) from
 what I can tell. I crash trying to use VAD(voice auto detect) for commit so
 that needs some help. As well as it needs helper methods for contexts and
-lots of other things that she currently does not use. 
+lots of other things that she currently does not use.
 
 <p>My idea is to expand this and use IBM watson image recognition as well
 as knowledge,walfram alpha etc etc... The idea is that a user logs
-in and over time as they ask questions and tell gabby things, grows and builds
+in and over time as they ask questions and tell Gabby things, their database grows and builds
 connections personalized to that user. Also started experimenting with
 personalized actions.. right now Gabby can click a mouse lol.</p>
