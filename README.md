@@ -8,7 +8,7 @@
 </ul>
 
 <p>Gabby uses an api.ai agent to process voice requests and then if there
-are parameters for further action, she contacts her rails server to
+are parameters for further action in the response, she contacts her rails server to
 find out what to do with them. Sending back customized speech most the time.</p>
 
 <p>Gabby's RubyMotion side is using a variety of Objective-C cocoa pods:</p>
