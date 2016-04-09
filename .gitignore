@@ -18,6 +18,8 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 .env
+.mobileprovision
+.developerprofile
 
 config/initializers/secret_token.rb
 config/secrets.yml
